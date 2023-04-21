@@ -10,9 +10,9 @@ redirect_from:
 
 Weekly Report
 ======
-This part is weekly report
+This part is [weekly report](https://chen-jia621.github.io/weeklyreport/ "周报")
 
 my exps
 ======
-This part is my exps~
+This part is my [exps](https://chen-jia621.github.io/exps/ "实验")
 
