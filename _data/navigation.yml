@@ -1,23 +1,23 @@
 # main links links
 # 这里相当于导航栏 可以丰富内容
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Part1"
-    url: #/talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Part2"
-    url: #/teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   # - title: "Portfolio"
-  #   url: #/portfolio/
+  #   url: /portfolio/
         
   # - title: "Blog Posts"
-  #   url: #/year-archive/
+  #   url: /year-archive/
     
   # - title: "CV"
-  #   url: #/cv/
+  #   url: /cv/
     
   # - title: "Guide"
-  #   url: #/markdown/
+  #   url: /markdown/
