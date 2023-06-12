@@ -16,3 +16,6 @@ my exps
 ======
 This part is my [exps](https://chen-jia621.github.io/exps/ "实验")
 
+学习笔记
+======
+This part is [学习笔记](https://chen-jia621.github.io/note1/ "学习笔记")
